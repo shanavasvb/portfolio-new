@@ -1536,7 +1536,7 @@ const Contact = () => {
 
         <div className="mt-16 flex flex-wrap justify-center gap-6">
           <a 
-            href="mailto:shanavasvb@example.com"
+            href="mailto:shanavasvbasheer@gmail.com"
             className="px-8 py-4 backdrop-blur-xl bg-white/5 border border-white/10 rounded-2xl hover:bg-white/10 hover:border-purple-400/30 transition-all flex items-center gap-3"
             data-cursor-hover
           >
@@ -1554,7 +1554,7 @@ const Contact = () => {
             <span>GitHub</span>
           </a>
           <a 
-            href="https://linkedin.com/in/shanavasvb"
+            href="https://linkedin.com/in/shanavasvbasheer"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-4 backdrop-blur-xl bg-white/5 border border-white/10 rounded-2xl hover:bg-white/10 hover:border-purple-400/30 transition-all flex items-center gap-3"
@@ -1594,7 +1594,7 @@ const Footer = () => {
             <Github size={20} />
           </a>
           <a 
-            href="https://linkedin.com/in/shanavasvb" 
+            href="https://linkedin.com/in/shanavasvbasheer" 
             className="text-gray-500 hover:text-white transition-colors"
             data-cursor-hover
             aria-label="LinkedIn"
@@ -1602,7 +1602,7 @@ const Footer = () => {
             <Linkedin size={20} />
           </a>
           <a 
-            href="mailto:shanavasvb@example.com" 
+            href="mailto:shanavasvbasheer@gmail.com" 
             className="text-gray-500 hover:text-white transition-colors"
             data-cursor-hover
             aria-label="Email"
